@@ -14,6 +14,9 @@ Data Analysis: Used pivot tables to analyze sales trends, customer segments, sta
 
 Visualization: Built an interactive Excel dashboard with pivot charts, slicers, and KPI cards
 
+<img width="1600" height="677" alt="image" src="https://github.com/user-attachments/assets/151a3937-1dc8-46c0-991b-ec16104c18bc" />
+
+
 ## Key Insights
 
 Women contribute ~65% of total sales
